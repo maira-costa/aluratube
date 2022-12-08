@@ -1,0 +1,145 @@
+{
+    "name": "Maíra Costa",
+    "job": "Jr Front-end Developer",
+    "github": "maira-costa",
+    "banner": "https://images.unsplash.com/photo-1556244573-c3686c0f0e78?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Don't Starve Together - Nem tudo são flores!",
+                "url": "https://www.youtube.com/watch?v=bX8jmEV4zmM",
+                "thumb": "https://img.youtube.com/vi/bX8jmEV4zmM/hqdefault.jpg"
+            },
+            {
+                "title": "The Last of Us Part II é uma Obra Prima - Análise (Sem spoilers)",
+                "url": "https://www.youtube.com/watch?v=lO5TK-X6dck",
+                "thumb": "https://img.youtube.com/vi/lO5TK-X6dck/hqdefault.jpg"
+            },
+            {
+                "title": "Stardew Valley Trailer",
+                "url": "https://www.youtube.com/watch?v=ot7uXNQskhs",
+                "thumb": "https://img.youtube.com/vi/ot7uXNQskhs/hqdefault.jpg"
+            },
+            {
+                "title": "Hollow Knight - Análise",
+                "url": "https://www.youtube.com/watch?v=FXXsQBW_CXg",
+                "thumb": "https://img.youtube.com/vi/FXXsQBW_CXg/hqdefault.jpg"
+            },
+            {
+                "title": "Children of Morta - Um Diablo Familiar",
+                "url": "https://www.youtube.com/watch?v=wZvUXplSfmQ",
+                "thumb": "https://img.youtube.com/vi/wZvUXplSfmQ/hqdefault.jpg"
+            },
+            {
+                "title": "Conheça Hades - Janela Indie #101",
+                "url": "https://www.youtube.com/watch?v=V9Ki-5BTMU4",
+                "thumb": "https://img.youtube.com/vi/V9Ki-5BTMU4/hqdefault.jpg"
+            },
+            {
+                "title": "Em Busca do Espírito de Ori and the Will of the Wisps",
+                "url": "https://www.youtube.com/watch?v=ednRKn_ERUo",
+                "thumb": "https://img.youtube.com/vi/ednRKn_ERUo/hqdefault.jpg"
+            },
+            {
+                "title": "Conheça Dwarf Fortress: O Jogo Mais Complexo já Feito - Janela Indie #124",
+                "url": "https://www.youtube.com/watch?v=v5MY1FcEhpA",
+                "thumb": "https://img.youtube.com/vi/v5MY1FcEhpA/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "React JavaScript Framework for Beginners",
+                "url": "https://www.youtube.com/watch?v=u6gSSpfsoOQ",
+                "thumb": "https://img.youtube.com/vi/u6gSSpfsoOQ/hqdefault.jpg"
+            },
+            {
+                "title": "Front-end dev reacts to mind-blowing Codepens",
+                "url": "https://www.youtube.com/watch?v=2B5rbsOoIUE",
+                "thumb": "https://img.youtube.com/vi/2B5rbsOoIUE/hqdefault.jpg"
+            },
+            {
+                "title": "I've been challenged to a CSS Battle rematch | Can I beat him again???",
+                "url": "https://www.youtube.com/watch?v=20QiX8rmHnU",
+                "thumb": "https://img.youtube.com/vi/20QiX8rmHnU/hqdefault.jpg"
+            },
+            {
+                "title": "O que faz uma desenvolvedora front-end?",
+                "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+                "thumb": "https://img.youtube.com/vi/ZY3-MFxVdEw/hqdefault.jpg"
+            },
+            {
+                "title": "Build 15 JavaScript Projects - Vanilla JavaScript Course",
+                "url": "https://www.youtube.com/watch?v=3PHXvlpOkf4",
+                "thumb": "https://img.youtube.com/vi/3PHXvlpOkf4/hqdefault.jpg"
+            },
+            {
+                "title": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+                "url": "https://www.youtube.com/watch?v=Ptbk2af68e8",
+                "thumb": "https://img.youtube.com/vi/Ptbk2af68e8/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            
+            {
+                "title": "O que é o Java? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            },
+            {
+                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+            },
+            {
+                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o C#? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+            }
+        ]
+    },
+    "favoritos": [
+        {
+            "arroba": "@peas",
+            "github": "peas"
+        },
+        {
+            "arroba": "@omariosouto",
+            "github": "omariosouto"
+        }
+    ]
+}
