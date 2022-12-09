@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 import config from "../config.json"
 import styled from "styled-components"
-import { CSSReset } from "../src/components/CSSReset"
 import Menu from "../src/components/Menu/Menu"
 import { StyledTimeline } from "../src/components/Timeline"
 import { StyledFavoritos } from "../src/components/Favoritos"
@@ -11,7 +10,6 @@ function HomePage() {
 
     return (
         <>
-            <CSSReset />
             <div style={{
                 display: "flex",
                 flexDirection: "column",
@@ -29,11 +27,7 @@ function HomePage() {
 export default HomePage
 
 const StyledHeader = styled.div`
-    /* .banner img {
-        width: 100%;
-        height: 230px;
-        object-fit: cover;
-    } */
+    background-color: ${({theme}) => theme.backgroundLevel1};
 	.user-info img {
 		width: 80px;
 		height: 80px;
@@ -58,10 +52,6 @@ const StyledBanner = styled.div`
 function Header() {
     return (
         <StyledHeader>
-            {/* <img src="bannner"/> */}
-            {/* <section className="banner">
-                <img src={config.banner}/>
-            </section> */}
             <StyledBanner bg={config.banner} />
             <section className="user-info">
                 <img src={`http://www.github.com/${config.github}.png`}/>
